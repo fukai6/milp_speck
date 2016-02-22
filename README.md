@@ -21,3 +21,4 @@ The step to use gurobi to solve the LP model
 
 
 References:
+Kai fu, Meiqin Wang, Yinghua Guo, Siwei Sun, Lei Hu : MILP-Based Automatic Search Algorithms for Differential and Linear Trails for Speck
