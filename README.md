@@ -26,7 +26,7 @@ The step to use gurobi to solve the LP model
 
 3) Input "m.optimize()" to solve
 
-4) Input "m.write(“XXX.sol”)" to save the result 
+4) Input "m.write("XXX.sol")" to save the result 
 
 
 
