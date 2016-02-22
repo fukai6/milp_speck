@@ -106,7 +106,7 @@ class speck():
         V = BasicTools.getVariables_From_Constraints(C)
         add_constraint_1 = ' + '.join(['p'+str(i) for i in range(self.BlockSize)]) + ' >= 1'
         V = V.union(BasicTools.getVariables_From_Constraints([add_constraint_1]))
-        filename='diff-roud-'+str(r)+'.lp'
+        filename='diff-round-'+str(r)+'.lp'
         o=open(filename,'w')
         o.write('Minimize')
         o.write('\n')
