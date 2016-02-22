@@ -1,6 +1,6 @@
 # milp_speck
 
-The speck_diff_find is a python framework for automatic differential cryptanalysis which is developed based on the method presented in the paper "MILP-Based Automatic Search Algorithms for Differential and Linear Trails for Speck"
+The speck_diff_find and speck_line_find are python framework for automatic differential and linear cryptanalysis which are developed based on the method presented in the paper "MILP-Based Automatic Search Algorithms for Differential and Linear Trails for Speck"
 
 The step to generate the LP model:
 
